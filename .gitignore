@@ -1,6 +1,5 @@
 # Prerequisites
 .vs
-*/bin/
-*/obj/
-FolderProfile.pubxml
-FolderProfile.pubxml.user
+VideoUploader/bin/
+VideoUploader/obj/
+
