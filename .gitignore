@@ -2,12 +2,14 @@
 .vs
 VideoUploader/bin/
 VideoUploader/obj/
+/VideoUploader/obj/Debug/VideoUploader.Properties.Resources.resources
+/VideoUploader/obj/Debug/VideoUploader.csproj.GenerateResource.cache
+/VideoUploader/obj/Debug/VideoUploader.pdb
+/VideoUploader/obj/Debug/VideoUploader_MarkupCompile.i.lref
+/VideoUploader/obj/Debug/VideoUploader.Properties.Resources.resources
+/VideoUploader/obj/Debug/VideoUploader.csproj.GenerateResource.cache
+/VideoUploader/obj/Debug/VideoUploader.pdb
+/VideoUploader/obj/Debug/VideoUploader_MarkupCompile.i.lref
+/VideoUploader/obj/Debug/App.g.cs
+/VideoUploader/obj/Debug/App.g.i.cs
 
-/VideoUploader/obj/Debug/VideoUploader.Properties.Resources.resources
-/VideoUploader/obj/Debug/VideoUploader.csproj.GenerateResource.cache
-/VideoUploader/obj/Debug/VideoUploader.pdb
-/VideoUploader/obj/Debug/VideoUploader_MarkupCompile.i.lref
-/VideoUploader/obj/Debug/VideoUploader.Properties.Resources.resources
-/VideoUploader/obj/Debug/VideoUploader.csproj.GenerateResource.cache
-/VideoUploader/obj/Debug/VideoUploader.pdb
-/VideoUploader/obj/Debug/VideoUploader_MarkupCompile.i.lref
